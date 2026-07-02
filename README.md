@@ -1,3 +1,4 @@
 # 1st-project-demo
-this is my first Git repository
-Author Zoya Jabeen
+This is my first Git repository.
+<Br>
+Author- Zoya Jabeen
